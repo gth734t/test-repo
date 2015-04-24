@@ -1,3 +1,3 @@
-new line added before
+new line added
 ## This is a markdown file - part 2
-new line added after
+new change added after
