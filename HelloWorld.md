@@ -1,3 +1,3 @@
 new line added before
-## This is a markdown file - part 1
+## This is a markdown file - part 2
 new line added after
