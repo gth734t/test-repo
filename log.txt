@@ -1,0 +1,4 @@
+train.o_d.node.selector2 
+ 1 iterations to complete 
+
+Starting iteration 1 
